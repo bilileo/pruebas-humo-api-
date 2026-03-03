@@ -19,4 +19,4 @@ jobs:
       - name: Instalar Newman 
         run: npm install -g newman 
       - name: Ejecutar pruebas de humo 
-        run: newman run pruebas_humo_api.json
+        run: newman run Pruebas de Humo - API Inicio.postman_collection.json
